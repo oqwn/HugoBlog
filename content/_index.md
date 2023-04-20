@@ -1,6 +1,12 @@
----
-title: "First blog"
-date: 2023-04-20T19:43:41+08:00
----
++++
+title = "Basics"
+chapter = true
+weight = 5
+pre = "<i class='https://github.com/oqwn/HugoBlog/'></i>"
++++
 
-Hello guys, this is my first blog.
+### Chapter 1
+
+# Basics
+
+Discover what this Hugo theme is all about and the core-concepts behind it.
